@@ -1,6 +1,5 @@
-# Project Name
-> Bike-Sharing_Linear-Regressinon-Assignment.
-This is the case study for a basic understanding to build a multiple linear regression model for the prediction of demand for shared bikes.
+# Project Name: Bike-Sharing_Linear-Regressinon-Assignment
+> This is the case study for a basic understanding to build a multiple linear regression model for the prediction of demand for shared bikes.
 
 
 ## Table of Contents
